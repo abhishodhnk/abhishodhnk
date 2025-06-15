@@ -23,7 +23,6 @@
 - 💻 Frontend developer with expertise in React ecosystems
 - 🚀 Open source contributor passionate about developer tools
 - 📚 Continuous learner exploring new technologies
-- 
 ---
 
 ### 🛠 Tech Stack
