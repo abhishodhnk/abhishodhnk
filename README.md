@@ -19,13 +19,17 @@
 </div>
 
 ---
+<div align="center">
 
-### 👨‍💻 About Me
-- 💻 Frontend developer with expertise in React ecosystems
-- 🚀 Open source contributor passionate about developer tools
-- 📚 Continuous learner exploring new technologies
+### 👨‍💻 About Me <br>
+- 💻 Frontend developer with expertise in React ecosystems <br>
+- 🚀 Open source contributor passionate about developer tools <br>
+- 📚 Continuous learner exploring new technologies <br>
+
+</div>
 ---
-
+<div align="center">
+  
 ### 🛠 Tech Stack
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -44,6 +48,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
+</div>
 ---
 
 ### 📈 GitHub Analytics
