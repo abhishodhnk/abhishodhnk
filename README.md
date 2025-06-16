@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="coding.gif" alt="Coding Animation" width="200" style="border-radius: 45%;"/>
+  <img src="coding.gif" alt="Coding Animation" width="200" />
 
   
   <h1>Abhishodh N K</h1>
