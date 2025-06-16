@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AbhishodhNK/AbhishodhNK/blob/main/assets/coding.gif" alt="Coding Animation" width="200"/>
+  <img src="https://pixabay.com/gifs/cartoon-3d-man-laptop-happy-573/" alt="Coding Animation" width="200"/>
   
   <h1>Abhishodh N K</h1>
   <h3>Frontend Developer | Tech Enthusiast</h3>
@@ -18,7 +18,7 @@
 </div>
 
 ---
-
+<div align="center">
 ### 👨‍💻 About Me
 - 💻 Frontend developer with expertise in React ecosystems
 - 🚀 Open source contributor passionate about developer tools
@@ -44,7 +44,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
-
+</div>
 ### 📈 GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishodhNK&layout=compact&theme=dark&langs_count=8"/>
