@@ -11,7 +11,7 @@
     <a href="mailto:abhishodh.nk@example.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://abhishodh.dev">
+    <a href="https://abhishodhnk.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-100000?style=flat&logo=github&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
