@@ -61,7 +61,6 @@
 
 <div align="center">
 
-<br>
 
 ---
 
