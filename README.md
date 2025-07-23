@@ -60,8 +60,8 @@
 
 ---
 
-
-<div align="center">### 📈 GitHub Analytics
+<center>### 📈 GitHub Analytics
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishodhNK&layout=compact&theme=dark&langs_count=8"/>
 </div>
 
