@@ -1,6 +1,6 @@
 <div align="center">
   <img src="coding.gif" alt="Coding Animation" width="200" />
-
+  
 
   <h1>Hi 👋, I'm <span style="color:#fe4a49;">Abhishodh N K</span></h1>
   <h3>Frontend Developer | Tech Enthusiast</h3>
