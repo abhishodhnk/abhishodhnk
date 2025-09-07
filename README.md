@@ -5,11 +5,11 @@
   <h1>Hi 👋, I'm <span style="color:#fe4a49;">Abhishodh N K</span></h1>
   <h3>Full-Stack Developer | Tech Enthusiast</h3>
   <p>
-    <a href="https://www.linkedin.com/in/abhishodh-nk">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
     <a href="mailto:abhishodh.nk@example.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/abhishodh-nk">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://abhishodhnk.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-100000?style=flat&logo=github&logoColor=white" alt="Portfolio"/>
