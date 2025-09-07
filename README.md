@@ -3,7 +3,7 @@
 
 
   <h1>Hi 👋, I'm <span style="color:#fe4a49;">Abhishodh N K</span></h1>
-  <h3>Frontend Developer | Tech Enthusiast</h3>
+  <h3>Full-Stack Developer | Tech Enthusiast</h3>
   <p>
     <a href="https://www.linkedin.com/in/abhishodh-nk">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
