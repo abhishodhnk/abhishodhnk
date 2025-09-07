@@ -26,6 +26,7 @@
 ### 👨‍💻 About Me <br>
 💻 Frontend developer with expertise in React ecosystems <br>
 🚀 Open source contributor passionate about developer tools <br>
+💻 Full Stack developer skilled in building scalable web applications <br>
 📚 Continuous learner exploring new technologies <br>
 
 </div>
